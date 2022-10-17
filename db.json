@@ -166,6 +166,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "superhero": "Deathstroke",
+      "alter_ego": "Slade Wilson",
+      "characters": "Arrow",
+      "first_appearance": "Arrow",
+      "publisher": "DC Comics",
+      "alt_img": "https://i.pinimg.com/originals/98/22/80/98228001b5c1879c2c356fb3077a4a70.jpg",
+      "id": "2MzbvyK"
     }
   ]
 }
